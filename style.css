@@ -1,0 +1,13 @@
+body
+{
+background-color:lightslategrey;
+}
+.heading
+{
+    width: 100%;
+    font-size: 25px;
+}
+.name_of_members, #result_name, #result_accuracy
+{
+    color:floralwhite;
+}
